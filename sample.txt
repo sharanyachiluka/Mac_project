@@ -3,3 +3,7 @@ new to git
 first file
 
 changes are made
+
+new changes
+
+hi hello
